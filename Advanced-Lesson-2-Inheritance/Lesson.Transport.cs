@@ -110,6 +110,7 @@ namespace Advanced_Lesson_2_Inheritance
         {
             public Transport()
             {
+
             }
 
             public Transport(double mileage)
